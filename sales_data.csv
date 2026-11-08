@@ -1,0 +1,11 @@
+Order_ID,Product,Category,Quantity,Price,Region,Sales
+101,Laptop,Electronics,2,50000,Chennai,100000
+102,Mouse,Accessories,5,500,Chengalpattu,2500
+103,Keyboard,Accessories,3,1500,Chennai,4500
+104,Laptop,Electronics,1,50000,Madurai,50000
+105,Monitor,Electronics,2,12000,Chennai,24000
+106,Mouse,Accessories,4,500,Madurai,2000
+107,Keyboard,Accessories,6,1500,Chengalpattu,9000
+108,Monitor,Electronics,1,12000,Chennai,12000
+109,Laptop,Electronics,3,50000,Madurai,150000
+110,Mouse,Accessories,7,500,Chennai,3500
